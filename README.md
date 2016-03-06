@@ -13,7 +13,7 @@ Developing a page using git pages for explaining the use of the system.
 1. please sign-in enther a vaild email and pass.
 2. navigate in the menu - you can read about us, and there is a link into this git repository.
 3. navigate in the menu to task - you can add - edite - remove a task.
-    * ADD
+    * Add
     * Edit
     * Remove
     * pay attention - you can not delete a task that not exist.
@@ -21,3 +21,5 @@ Developing a page using git pages for explaining the use of the system.
     * you will get a green massage that indicates that the task was added successfully. 
     * you will be able to see all your current tasks.
 4. navigate in the menu to signoff - you can signoff with secure mind - and enter with another user.  
+
+Enjoy and track your tasks. 
